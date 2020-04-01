@@ -9,4 +9,8 @@ public class first {
         out.println("Hello,Git!");
         out.println("Hello,Git!");
     }
+
+    public void GetNum(int a,int b){
+        return;
+    }
 }
